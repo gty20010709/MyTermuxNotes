@@ -9,7 +9,7 @@ pip install jupyter
 Reference: https://gist.github.com/gatopeich/8debf57e4fd8188f2f6610c6f5b0cf55
 
 #### [Tips]
-- Find more Jupyter themes and learn more about how to use thems: https://github.com/dunovank/jupyter-themes
+- Find more Jupyter themes and learn more about how to use them: https://github.com/dunovank/jupyter-themes
 - Use Extensions: ` pip install jupyter_contrib_nbextensions `
 
 
