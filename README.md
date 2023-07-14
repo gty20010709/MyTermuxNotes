@@ -24,3 +24,8 @@ Reference: https://wiki.termux.com/wiki/Python
 ``` shell
 pkg install matplotlib
 ```
+
+
+## 4. etc.
+
+... 
